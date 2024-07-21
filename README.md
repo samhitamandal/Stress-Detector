@@ -1,5 +1,5 @@
 # Stress-Detector
-This is a stress detector application which uses various lifestyle and physiological data to predict stress levels of an individual.
+This is a stress detector application which uses various lifestyle and physiological data to predict stress levels of an individual. Do checkout the deployed application here :https://stressdetector-cwqg6uwfpjgprzr8bw7xjv.streamlit.app/
 
 I used the Kaggle dataset: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset for this project. 
 
