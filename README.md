@@ -1,6 +1,8 @@
 # Stress-Detector
 This is a stress detector application which uses various lifestyle and physiological data to predict stress levels of an individual.
+
 I used the Kaggle dataset: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset for this project. 
+
 It is a stress level predictor application which takes parameters such as age,gender,occupation,sleep duration,sleep quality,physical activity level,BMI Category,daily steps and blood pressure to make the prediction.
 I have used streamlit to make it into an application. The code ffor the same is in the stress_detector.py file in this repository.
 The original data had values of stress level ranging from 0 to 10 which i divided into 3 categories of low, medium and high stress levels. 
